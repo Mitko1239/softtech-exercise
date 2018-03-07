@@ -1,3 +1,3 @@
 # softtech-exercise
 Repo made for exercises
-This will make a conflict!
+This will make a conflict !
