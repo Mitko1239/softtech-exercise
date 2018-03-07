@@ -9,4 +9,4 @@ Hello, again!
 
 Now let's use Git Bash
 
-Local changes
+Git bash changes resolved
